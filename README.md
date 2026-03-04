@@ -1,4 +1,4 @@
-# Inventory Management and Demand Forecasting System 📈📦
+# Inventory Management and Demand Forecasting System
 
 ## Project Overview
 
@@ -34,15 +34,10 @@ The project is organized into the following key steps:
 - Utilize the Random Forest algorithm to predict demand and optimize inventory levels.
 - Focus on hourly restocking of data.
 
-## Contributors 👥
-
-- ManavTech07 (GitHub Username: @manavisrani07)
-- Contact: manavisrani07@gmail.com
-
 ## License 📜
 
 - This project is under MIT License.
   
-## Contact 📧
 
-- For inquiries, contact Manav Israni at manavisrani07@gmail.com.
+
+
